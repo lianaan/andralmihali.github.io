@@ -12,7 +12,7 @@ title                    : "Andra Mihali, Ph.D."
 title_separator          : "-"
 name                     : &name "Andra Mihali"
 description              : &description "personal description"
-url                      : https://andralmihali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lianaan.github.io/andralmihali.github.io/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
