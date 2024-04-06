@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "A Low-Level Perceptual Correlate of Behavioral and Clinical Deficits in ADHD"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: https://cpsyjournal.org/articles/10.1162/CPSY_a_00018
+excerpt: ''
+date: 2018-10-01
+venue: 'Computational psychiatry'
+paperurl: 'https://cpsyjournal.org/articles/43/files/submission/proof/43-1-89-1-10-20201216.pdf'
+citation: 'Mihali A, Young AG, Adler LA, Halassa MM, Ma WJ. A Low-Level Perceptual Correlate of Behavioral and Clinical Deficits in ADHD. Comput Psychiatr. 2018 Oct;2:141-163. doi: 10.1162/cpsy_a_00018. PMID: 30381800; PMCID: PMC6184361'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
