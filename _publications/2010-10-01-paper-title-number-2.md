@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Effects of Hallucination Proneness and Sensory Resolution on Prior Biases in Human Perceptual Inference of Time Intervals"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://www.jneurosci.org/content/43/29/5365
+excerpt: 'Bayesian models of perception posit that percepts result from the optimal integration of new sensory information and prior expectations. In turn, prominent models of perceptual disturbances in psychosis frame hallucination-like phenomena as percepts excessively biased toward perceptual prior expectations. Despite mounting support for this notion, whether this hallucination-related prior bias results secondarily from imprecise sensory representations at early processing stages or directly from alterations in perceptual priors—both suggested candidates potentially consistent with Bayesian models—remains to be tested. Using modified interval timing paradigms designed to arbitrate between these alternative hypotheses, we show in human participants (16 females and 24 males) from a nonclinical population that hallucination proneness correlates with a circumscribed form of prior bias that reflects selective differences in weighting of contextual prior variance, a prior bias that is unrelated to the effect of sensory noise and to a separate index of sensory resolution. Our results thus suggest distinct mechanisms underlying prior biases in perceptual inference and favor the notion that hallucination proneness could reflect direct alterations in the representation or use of perceptual priors independent of sensory noise.'
+date: 2023-07-19
+venue: 'Journal of Neuroscience'
+paperurl: 'https://www.jneurosci.org/content/jneuro/43/29/5365.full.pdf'
+citation: 'Duhamel, E., Mihali, A., & Horga, G. (2023). Effects of hallucination proneness and sensory resolution on prior biases in human perceptual inference of time intervals. The Journal of Neuroscience, 43(29), 5365–5377.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
