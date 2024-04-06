@@ -1,4 +1,3 @@
-
 ---
 title: "The psychophysics of visual search with heterogeneous distractors"
 collection: publications
