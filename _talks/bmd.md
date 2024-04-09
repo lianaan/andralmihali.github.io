@@ -1,5 +1,5 @@
 ---
-title: "Visual search with heterogenous distractors"
+title: "Bayesian microsaccade detection"
 collection: talks
 type: "Talk"
 permalink: files/bmd.pdf
