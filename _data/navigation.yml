@@ -3,10 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
        
-  #- title: "CV"
-  #  url: /files/CV_Andra_Mihali_2024_March.pdf
   - title: "CV"
-    url: /cv/
+    url: /files/CV_Andra_Mihali_2024_March.pdf
+  #- title: "CV"
+   # url: /cv/
 
   - title: "Talks"
     url: /talks/  
