@@ -9,4 +9,4 @@ paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10687029/pdf/41467_2023_
 citation: 'Mihali, A., Broeker, M., Ragalmuto, F.D.M. et al. Introspective inference counteracts perceptual distortion. Nat Commun 14, 7826 (2023). https://doi.org/10.1038/s41467-023-42813-2'
 ---
 
-![image](andralmihali.github.io/images/3953273590_704e3899d5_m.jpg)
+![image](fig1intr.png)
