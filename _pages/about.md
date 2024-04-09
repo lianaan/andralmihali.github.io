@@ -12,3 +12,4 @@ I am a Postdoctoral Research Fellow in the laboratory of [Guillermo Horga](https
 
 Before that, I received my Ph.D. in Neural Science in 2018 from New York University, under the mentorship of [Wei Ji Ma](https://www.cns.nyu.edu/malab/).  During my [Ph.D.](https://www.cns.nyu.edu/malab/static/files/publications/2018%20Andra%20Mihali%20PhD%20thesis.pdf), I worked on developing behavioral and eye-tracking tasks and Bayesian models  to quantify and understand differences in the precisions of visual representations and perceptual decisions, in neurotypical individuals as well as individuals with ADHD. Before that, I received my B.A. in Biochemistry, with minors Psychology and Mathematics, in 2011, from Columbia University.
 
+I am passionate about the intersection of science and society (e.g., [Scaan](https://scaan.net/)), data analysis and visualization, mentorship, hiking, photography, baking and dancing, especially zumba and Argentine tango.
