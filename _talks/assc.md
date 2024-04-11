@@ -10,4 +10,4 @@ date: 2023-06-25
 location: "New York, NY"
 ---
 
-[Introspective inference counteracts perceptual distortion](/ASSC.pdf)
+[Introspective inference counteracts perceptual distortion](/files/ASSC.pdf)
