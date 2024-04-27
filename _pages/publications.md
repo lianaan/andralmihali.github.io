@@ -1,13 +1,15 @@
 ---
 layout: archive
 title: "Publications"
+collection: publications
 permalink: /publications/
+excerpt: ' <br/><img src='/images/fig1intrE.png' '
 author_profile: true
 ---
 
-<br/><img src='/images/fig1intrE.png'
 
-#![image](https://github.com/lianaan/andralmihali.github.io/blob/master/files/fig1intr.png)
+
+
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=P652FREAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</div>
