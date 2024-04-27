@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+![image](https://github.com/lianaan/andralmihali.github.io/blob/master/images/fig1intrE.png)
 
 
 {% if site.author.googlescholar %}
