@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "Publications"
-collection: publications
 permalink: /publications/
 excerpt: ' <br/><img src='/images/fig1intrE.png' '
 author_profile: true
