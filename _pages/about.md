@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Image from paper]{/images/fig1intr.png}{: .align-right "width=300px"}
+![Image from paper]{/images/fig1intrE.png}{: .align-right "width=300px"}
 
 "<br/><img src='/images/fig1intr.png'>"
 
