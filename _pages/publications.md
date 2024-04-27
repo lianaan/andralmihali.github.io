@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-![image]{/images/fig1intrE.png}{: .align-left "width=300px"}
+
 
 
 {% if site.author.googlescholar %}
