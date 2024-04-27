@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-#![Image from paper]{/images/fig1intrE.png}{: .align-right "width=300px"}
-
-#<br/><img src='/images/fig1intrE.png'>
 
 I am a Postdoctoral Research Fellow in the laboratory of [Guillermo Horga](https://www.columbiapsychiatry.org/research-labs/horga-lab), in the Department of Psychiatry at Columbia University. My work aims to develop and employ objective measures for people’s insight and metacognition, understand their computational and neural mechanisms, as well as what drives people’s variability in these processes, in the context of psychopathology and sublinical variation. I am also interested in how biases in decision-making arise, what purpose they serve and strategies to counteract them, either employed by the decision-making agent, or shaped with behavioral intervention. 
 
