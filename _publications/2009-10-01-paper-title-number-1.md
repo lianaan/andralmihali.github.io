@@ -2,7 +2,7 @@
 title: "Introspective inference counteracts perceptual distortion"
 collection: publications
 permalink: https://www.nature.com/articles/s41467-023-42813-2
-excerpt: " <img src='./images/fig1intrE.png'>  "
+excerpt: " <img src='.images/fig1intrE.png'>  "
 date: 2023-11-29
 venue: 'Nature Communications'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10687029/pdf/41467_2023_Article_42813.pdf'
