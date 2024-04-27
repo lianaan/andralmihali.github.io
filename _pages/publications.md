@@ -2,7 +2,6 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-excerpt: ' <br/><img src='/images/fig1intrE.png' '
 author_profile: true
 
 ---
