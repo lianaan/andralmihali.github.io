@@ -10,3 +10,4 @@ citation: 'Mihali, A., Broeker, M., Ragalmuto, F.D.M. et al. Introspective infer
 ---
 
 
+<br/><img src='/images/fig1intrE.png'
