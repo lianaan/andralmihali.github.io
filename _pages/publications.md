@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+<br/><img src='/images/fig1intrE.png'
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=P652FREAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</div>
